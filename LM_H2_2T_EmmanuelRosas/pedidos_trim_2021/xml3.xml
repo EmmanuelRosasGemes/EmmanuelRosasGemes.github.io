@@ -1,0 +1,2841 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="trans_trimestre2021.xslt"?>
+<web_pedidos>
+    <año_2021>
+        <trimestre_1>
+            <!-- Clientes recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal</calle>
+                        <ciudad>Cityville</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaX</provincia>
+                    </direccion>
+                    <correo_electronico>juan@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-10</fecha_compra>
+                    <fecha_entrega>2021-01-15</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatillas Deportivas</nombre>
+                            <referencia>ZD001</referencia>
+                            <precio>60.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Ropa Deportiva</nombre>
+                            <referencia>RD002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Luis</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. Primavera</calle>
+                        <ciudad>Ciudad Alegre</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaZ</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-03-01</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2021-03-05</fecha_compra>
+                    <fecha_entrega>2021-03-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos Casuales</nombre>
+                            <referencia>ZC003</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Camisa a Rayas</nombre>
+                            <referencia>CR004</referencia>
+                            <precio>70.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Daniel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle de la Luna</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>ProvinciaA</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-04-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>004</numero_pedido>
+                    <fecha_compra>2021-04-15</fecha_compra>
+                    <fecha_entrega>2021-04-20</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Botas de Montaña</nombre>
+                            <referencia>BM004</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Chaqueta Impermeable</nombre>
+                            <referencia>CI005</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Miguel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. del Sol</calle>
+                        <ciudad>Ciudad Radiante</ciudad>
+                        <codigo_postal>89012</codigo_postal>
+                        <provincia>ProvinciaE</provincia>
+                    </direccion>
+                    <correo_electronico>miguel@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-11-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>008</numero_pedido>
+                    <fecha_compra>2021-11-20</fecha_compra>
+                    <fecha_entrega>2021-11-25</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartwatch Deportivo</nombre>
+                            <referencia>SD008</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Kit de Herramientas para Jardín</nombre>
+                            <referencia>KH009</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carolina</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>789654321</telefono>
+                    <direccion>
+                        <calle>Calzada de las Flores</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaF</provincia>
+                    </direccion>
+                    <correo_electronico>carolina@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>009</numero_pedido>
+                    <fecha_compra>2022-01-15</fecha_compra>
+                    <fecha_entrega>2022-01-20</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Lámpara de Pie Moderna</nombre>
+                            <referencia>LM009</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Juego de Té de Porcelana</nombre>
+                            <referencia>JT010</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Clientes no recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Laura</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Av. Flores</calle>
+                        <ciudad>Ciudad Bella</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaM</provincia>
+                    </direccion>
+                    <correo_electronico>laura@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-05-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>005</numero_pedido>
+                    <fecha_compra>2021-05-15</fecha_compra>
+                    <fecha_entrega>2021-05-20</fecha_entrega>
+                    <total_factura>95.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro de Cocina</nombre>
+                            <referencia>LC005</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Juego de Toallas</nombre>
+                            <referencia>JT006</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>876543210</telefono>
+                    <direccion>
+                        <calle>Calle Sombra</calle>
+                        <ciudad>Ciudad Oscura</ciudad>
+                        <codigo_postal>34567</codigo_postal>
+                        <provincia>ProvinciaN</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-06-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>006</numero_pedido>
+                    <fecha_compra>2021-06-25</fecha_compra>
+                    <fecha_entrega>2021-06-30</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Espejo Decorativo</nombre>
+                            <referencia>ED006</referencia>
+                            <precio>45.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Perfume Floral</nombre>
+                            <referencia>PF007</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Rivera</apellidos>
+                    <telefono>765432109</telefono>
+                    <direccion>
+                        <calle>Av. Serenidad</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>23456</codigo_postal>
+                        <provincia>ProvinciaO</provincia>
+                    </direccion>
+                    <correo_electronico>ana@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-02-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>011</numero_pedido>
+                    <fecha_compra>2022-02-15</fecha_compra>
+                    <fecha_entrega>2022-02-20</fecha_entrega>
+                    <total_factura>110.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Cafetera Automática</nombre>
+                            <referencia>CA011</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Set de Tazas de Café</nombre>
+                            <referencia>ST012</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Jorge</nombre>
+                    <apellidos>Castillo</apellidos>
+                    <telefono>654321098</telefono>
+                    <direccion>
+                        <calle>Av. del Bosque</calle>
+                        <ciudad>Ciudad Verde</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaP</provincia>
+                    </direccion>
+                    <correo_electronico>jorge@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-04-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>012</numero_pedido>
+                    <fecha_compra>2022-04-10</fecha_compra>
+                    <fecha_entrega>2022-04-15</fecha_entrega>
+                    <total_factura>65.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Lámpara de Escritorio</nombre>
+                            <referencia>LE012</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cuadro Decorativo</nombre>
+                            <referencia>CD013</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Lucía</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>543210987</telefono>
+                    <direccion>
+                        <calle>Calle Lunar</calle>
+                        <ciudad>Ciudad Nocturna</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaQ</provincia>
+                    </direccion>
+                    <correo_electronico>lucia@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-06-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>013</numero_pedido>
+                    <fecha_compra>2022-06-20</fecha_compra>
+                    <fecha_entrega>2022-06-25</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Reloj de Pared</nombre>
+                            <referencia>RP013</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cojines Decorativos</nombre>
+                            <referencia>CD014</referencia>
+                            <precio>40.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </trimestre_1>
+        <trimestre_2>
+            <!-- Clientes recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Av. Libertad</calle>
+                        <ciudad>Ciudad Nueva</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaX</provincia>
+                    </direccion>
+                    <correo_electronico>juan@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>001</numero_pedido>
+                    <fecha_compra>2021-01-10</fecha_compra>
+                    <fecha_entrega>2021-01-15</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Sneakers Modernos</nombre>
+                            <referencia>SM001</referencia>
+                            <precio>60.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Ropa Deportiva</nombre>
+                            <referencia>RD002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Luis</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. Primavera</calle>
+                        <ciudad>Ciudad Alegre</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaZ</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-03-01</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>003</numero_pedido>
+                    <fecha_compra>2021-03-05</fecha_compra>
+                    <fecha_entrega>2021-03-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos Elegantes</nombre>
+                            <referencia>ZE003</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Camisa a Rayas</nombre>
+                            <referencia>CR004</referencia>
+                            <precio>70.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Daniel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle de la Luna</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>ProvinciaA</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-04-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>004</numero_pedido>
+                    <fecha_compra>2021-04-15</fecha_compra>
+                    <fecha_entrega>2021-04-20</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Botas de Montaña</nombre>
+                            <referencia>BM004</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Chaqueta Impermeable</nombre>
+                            <referencia>CI005</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Miguel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. del Sol</calle>
+                        <ciudad>Ciudad Radiante</ciudad>
+                        <codigo_postal>89012</codigo_postal>
+                        <provincia>ProvinciaE</provincia>
+                    </direccion>
+                    <correo_electronico>miguel@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-11-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>008</numero_pedido>
+                    <fecha_compra>2021-11-20</fecha_compra>
+                    <fecha_entrega>2021-11-25</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartwatch Deportivo</nombre>
+                            <referencia>SD008</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Kit de Herramientas para Jardín</nombre>
+                            <referencia>KH009</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carolina</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>789654321</telefono>
+                    <direccion>
+                        <calle>Calzada de las Flores</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaF</provincia>
+                    </direccion>
+                    <correo_electronico>carolina@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>009</numero_pedido>
+                    <fecha_compra>2022-01-15</fecha_compra>
+                    <fecha_entrega>2022-01-20</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Lámpara de Pie Moderna</nombre>
+                            <referencia>LM009</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Juego de Té de Porcelana</nombre>
+                            <referencia>JT010</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Clientes no recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Laura</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Av. Flores</calle>
+                        <ciudad>Ciudad Bella</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaM</provincia>
+                    </direccion>
+                    <correo_electronico>laura@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-05-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>005</numero_pedido>
+                    <fecha_compra>2021-05-15</fecha_compra>
+                    <fecha_entrega>2021-05-20</fecha_entrega>
+                    <total_factura>95.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro de Cocina</nombre>
+                            <referencia>LC005</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Juego de Toallas</nombre>
+                            <referencia>JT006</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>876543210</telefono>
+                    <direccion>
+                        <calle>Calle Sombra</calle>
+                        <ciudad>Ciudad Oscura</ciudad>
+                        <codigo_postal>34567</codigo_postal>
+                        <provincia>ProvinciaN</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-06-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>006</numero_pedido>
+                    <fecha_compra>2021-06-25</fecha_compra>
+                    <fecha_entrega>2021-06-30</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Espejo Decorativo</nombre>
+                            <referencia>ED006</referencia>
+                            <precio>45.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Perfume Floral</nombre>
+                            <referencia>PF007</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Rivera</apellidos>
+                    <telefono>765432109</telefono>
+                    <direccion>
+                        <calle>Av. Serenidad</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>23456</codigo_postal>
+                        <provincia>ProvinciaO</provincia>
+                    </direccion>
+                    <correo_electronico>ana@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-02-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>011</numero_pedido>
+                    <fecha_compra>2022-02-15</fecha_compra>
+                    <fecha_entrega>2022-02-20</fecha_entrega>
+                    <total_factura>110.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Cafetera Automática</nombre>
+                            <referencia>CA011</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Set de Tazas de Café</nombre>
+                            <referencia>ST012</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Jorge</nombre>
+                    <apellidos>Castillo</apellidos>
+                    <telefono>654321098</telefono>
+                    <direccion>
+                        <calle>Av. del Bosque</calle>
+                        <ciudad>Ciudad Verde</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaP</provincia>
+                    </direccion>
+                    <correo_electronico>jorge@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-04-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>012</numero_pedido>
+                    <fecha_compra>2022-04-10</fecha_compra>
+                    <fecha_entrega>2022-04-15</fecha_entrega>
+                    <total_factura>65.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Lámpara de Escritorio</nombre>
+                            <referencia>LE012</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cuadro Decorativo</nombre>
+                            <referencia>CD013</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Lucía</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>543210987</telefono>
+                    <direccion>
+                        <calle>Calle Lunar</calle>
+                        <ciudad>Ciudad Nocturna</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaQ</provincia>
+                    </direccion>
+                    <correo_electronico>lucia@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-06-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>013</numero_pedido>
+                    <fecha_compra>2022-06-20</fecha_compra>
+                    <fecha_entrega>2022-06-25</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Reloj de Pared</nombre>
+                            <referencia>RP013</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cojines Decorativos</nombre>
+                            <referencia>CD014</referencia>
+                            <precio>40.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </trimestre_2>
+        <trimestre_3>
+            <!-- Clientes recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Av. Libertad</calle>
+                        <ciudad>Ciudad Nueva</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaX</provincia>
+                    </direccion>
+                    <correo_electronico>juan@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>021</numero_pedido>
+                    <fecha_compra>2023-09-10</fecha_compra>
+                    <fecha_entrega>2023-09-15</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Auriculares Inalámbricos</nombre>
+                            <referencia>AI021</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Mochila para Portátil</nombre>
+                            <referencia>MP022</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Luis</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. Primavera</calle>
+                        <ciudad>Ciudad Alegre</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaZ</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-03-01</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>023</numero_pedido>
+                    <fecha_compra>2023-09-05</fecha_compra>
+                    <fecha_entrega>2023-09-10</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smart TV 4K</nombre>
+                            <referencia>ST023</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Barra de Sonido</nombre>
+                            <referencia>BS024</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Daniel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle de la Luna</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>ProvinciaA</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-04-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>024</numero_pedido>
+                    <fecha_compra>2023-09-15</fecha_compra>
+                    <fecha_entrega>2023-09-20</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Tablet Android</nombre>
+                            <referencia>TA024</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Funda para Tablet</nombre>
+                            <referencia>FT025</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Miguel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. del Sol</calle>
+                        <ciudad>Ciudad Radiante</ciudad>
+                        <codigo_postal>89012</codigo_postal>
+                        <provincia>ProvinciaE</provincia>
+                    </direccion>
+                    <correo_electronico>miguel@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-11-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>028</numero_pedido>
+                    <fecha_compra>2023-09-20</fecha_compra>
+                    <fecha_entrega>2023-09-25</fecha_entrega>
+                    <total_factura>240.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Auriculares Bluetooth</nombre>
+                            <referencia>AB028</referencia>
+                            <precio>120.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cargador Inalámbrico</nombre>
+                            <referencia>CI029</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carolina</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>789654321</telefono>
+                    <direccion>
+                        <calle>Calzada de las Flores</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaF</provincia>
+                    </direccion>
+                    <correo_electronico>carolina@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>029</numero_pedido>
+                    <fecha_compra>2023-09-25</fecha_compra>
+                    <fecha_entrega>2023-09-30</fecha_entrega>
+                    <total_factura>260.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Aspiradora Robot</nombre>
+                            <referencia>AR029</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cafetera Programable</nombre>
+                            <referencia>CP030</referencia>
+                            <precio>140.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Clientes no recurrentes -->
+            <pedido>    
+                <cliente>
+                    <nombre>Emily</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>789012345</telefono>
+                    <direccion>
+                        <calle>Av. Aurora</calle>
+                        <ciudad>Ciudad Brillante</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>ProvinciaB</provincia>
+                    </direccion>
+                    <correo_electronico>emily@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-08-03</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>020</numero_pedido>
+                    <fecha_compra>2022-08-08</fecha_compra>
+                    <fecha_entrega>2022-08-13</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Alfombra Shaggy</nombre>
+                            <referencia>AS020</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara de Techo</nombre>
+                            <referencia>LT021</referencia>
+                            <precio>70.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Michael</nombre>
+                    <apellidos>García</apellidos>
+                    <telefono>567890123</telefono>
+                    <direccion>
+                        <calle>Av. Estrellas</calle>
+                        <ciudad>Ciudad Celestial</ciudad>
+                        <codigo_postal>23456</codigo_postal>
+                        <provincia>ProvinciaC</provincia>
+                    </direccion>
+                    <correo_electronico>michael@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-09-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>021</numero_pedido>
+                    <fecha_compra>2022-09-30</fecha_compra>
+                    <fecha_entrega>2022-10-05</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Silla Ergonómica</nombre>
+                            <referencia>SE021</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Escritorio de Oficina</nombre>
+                            <referencia>EO022</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Sofía</nombre>
+                    <apellidos>Ramírez</apellidos>
+                    <telefono>345678901</telefono>
+                    <direccion>
+                        <calle>Av. Serenidad</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>34567</codigo_postal>
+                        <provincia>ProvinciaO</provincia>
+                    </direccion>
+                    <correo_electronico>sofia@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-02-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>022</numero_pedido>
+                    <fecha_compra>2023-02-25</fecha_compra>
+                    <fecha_entrega>2023-03-02</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Set de Cuchillos de Cocina</nombre>
+                            <referencia>CC022</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Ollas de Acero Inoxidable</nombre>
+                            <referencia>OA023</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Raul</nombre>
+                    <apellidos>Molina</apellidos>
+                    <telefono>901234567</telefono>
+                    <direccion>
+                        <calle>Av. del Bosque</calle>
+                        <ciudad>Ciudad Verde</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaP</provincia>
+                    </direccion>
+                    <correo_electronico>raul@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-06-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>023</numero_pedido>
+                    <fecha_compra>2023-06-10</fecha_compra>
+                    <fecha_entrega>2023-06-15</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Mesa de Comedor</nombre>
+                            <referencia>MC023</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Sillas de Comedor (Juego de 4)</nombre>
+                            <referencia>SC024</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Marta</nombre>
+                    <apellidos>Díaz</apellidos>
+                    <telefono>678901234</telefono>
+                    <direccion>
+                        <calle>Calle Lunar</calle>
+                        <ciudad>Ciudad Nocturna</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaQ</provincia>
+                    </direccion>
+                    <correo_electronico>marta@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-09-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>024</numero_pedido>
+                    <fecha_compra>2023-09-20</fecha_compra>
+                    <fecha_entrega>2023-09-25</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Set de Sábanas de Satén</nombre>
+                            <referencia>SS024</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Espejo de Pared</nombre>
+                            <referencia>EP025</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </trimestre_3>
+        <trimestre_4>
+            <!-- Clientes recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Av. Independencia</calle>
+                        <ciudad>Ciudad Renovada</ciudad>
+                        <codigo_postal>98765</codigo_postal>
+                        <provincia>ProvinciaZ</provincia>
+                    </direccion>
+                    <correo_electronico>juan.perez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-05-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>030</numero_pedido>
+                    <fecha_compra>2023-02-15</fecha_compra>
+                    <fecha_entrega>2023-02-20</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Teclado Inalámbrico</nombre>
+                            <referencia>TI030</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Ratón Ergonómico</nombre>
+                            <referencia>RE031</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Luis</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. del Bosque</calle>
+                        <ciudad>Ciudad Encantada</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>ProvinciaY</provincia>
+                    </direccion>
+                    <correo_electronico>luis.fernandez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-07-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>031</numero_pedido>
+                    <fecha_compra>2023-04-10</fecha_compra>
+                    <fecha_entrega>2023-04-15</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Auriculares In-Ear</nombre>
+                            <referencia>AE031</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Mesa de Centro</nombre>
+                            <referencia>MC032</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Daniel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle de la Torre</calle>
+                        <ciudad>Ciudad Serena</ciudad>
+                        <codigo_postal>23456</codigo_postal>
+                        <provincia>ProvinciaB</provincia>
+                    </direccion>
+                    <correo_electronico>daniel.fernandez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-10-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>032</numero_pedido>
+                    <fecha_compra>2023-05-20</fecha_compra>
+                    <fecha_entrega>2023-05-25</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Silla Gamer</nombre>
+                            <referencia>SG032</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Teclado Mecánico</nombre>
+                            <referencia>TM033</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Miguel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. de la Luna</calle>
+                        <ciudad>Ciudad Nocturna</ciudad>
+                        <codigo_postal>34567</codigo_postal>
+                        <provincia>ProvinciaO</provincia>
+                    </direccion>
+                    <correo_electronico>miguel.fernandez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-01-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>033</numero_pedido>
+                    <fecha_compra>2023-06-05</fecha_compra>
+                    <fecha_entrega>2023-06-10</fecha_entrega>
+                    <total_factura>240.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Impresora Multifunción</nombre>
+                            <referencia>IM033</referencia>
+                            <precio>120.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Papel Fotográfico</nombre>
+                            <referencia>PF034</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carolina</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>789654321</telefono>
+                    <direccion>
+                        <calle>Av. de las Estrellas</calle>
+                        <ciudad>Ciudad Brillante</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaC</provincia>
+                    </direccion>
+                    <correo_electronico>carolina.rodriguez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-08-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>034</numero_pedido>
+                    <fecha_compra>2023-11-10</fecha_compra>
+                    <fecha_entrega>2023-11-15</fecha_entrega>
+                    <total_factura>260.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Auriculares con Cancelación de Ruido</nombre>
+                            <referencia>AC034</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara LED Inteligente</nombre>
+                            <referencia>LI035</referencia>
+                            <precio>140.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Clientes no recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Emma</nombre>
+                    <apellidos>López</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Av. Primavera</calle>
+                        <ciudad>Ciudad Alegre</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaZ</provincia>
+                    </direccion>
+                    <correo_electronico>emma.lopez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-11-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>040</numero_pedido>
+                    <fecha_compra>2023-05-10</fecha_compra>
+                    <fecha_entrega>2023-05-15</fecha_entrega>
+                    <total_factura>190.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Lámpara de Pie</nombre>
+                            <referencia>LP040</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Espejo Decorativo</nombre>
+                            <referencia>ED041</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Olivia</nombre>
+                    <apellidos>Ramírez</apellidos>
+                    <telefono>876543210</telefono>
+                    <direccion>
+                        <calle>Av. Serenidad</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>23456</codigo_postal>
+                        <provincia>ProvinciaO</provincia>
+                    </direccion>
+                    <correo_electronico>olivia.ramirez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-12-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>041</numero_pedido>
+                    <fecha_compra>2023-06-20</fecha_compra>
+                    <fecha_entrega>2023-06-25</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Mesa de Centro</nombre>
+                            <referencia>MC041</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara de Mesa</nombre>
+                            <referencia>LM042</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Liam</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>765432109</telefono>
+                    <direccion>
+                        <calle>Av. del Bosque</calle>
+                        <ciudad>Ciudad Verde</ciudad>
+                        <codigo_postal>34567</codigo_postal>
+                        <provincia>ProvinciaP</provincia>
+                    </direccion>
+                    <correo_electronico>liam.martinez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>042</numero_pedido>
+                    <fecha_compra>2023-07-05</fecha_compra>
+                    <fecha_entrega>2023-07-10</fecha_entrega>
+                    <total_factura>260.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Sofá de Tres Plazas</nombre>
+                            <referencia>SP042</referencia>
+                            <precio>150.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Mesa de Comedor</nombre>
+                            <referencia>MC043</referencia>
+                            <precio>110.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Ava</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>654321098</telefono>
+                    <direccion>
+                        <calle>Av. Lunar</calle>
+                        <ciudad>Ciudad Nocturna</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaQ</provincia>
+                    </direccion>
+                    <correo_electronico>ava.gomez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-02-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>043</numero_pedido>
+                    <fecha_compra>2023-08-10</fecha_compra>
+                    <fecha_entrega>2023-08-15</fecha_entrega>
+                    <total_factura>240.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Silla de Comedor</nombre>
+                            <referencia>SC043</referencia>
+                            <precio>130.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Mesa de Noche</nombre>
+                            <referencia>MN044</referencia>
+                            <precio>110.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Noah</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>890123456</telefono>
+                    <direccion>
+                        <calle>Av. del Sol</calle>
+                        <ciudad>Ciudad Brillante</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>ProvinciaB</provincia>
+                    </direccion>
+                    <correo_electronico>noah.fernandez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-03-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>044</numero_pedido>
+                    <fecha_compra>2023-09-25</fecha_compra>
+                    <fecha_entrega>2023-09-30</fecha_entrega>
+                    <total_factura>280.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Mesa de Café</nombre>
+                            <referencia>MC044</referencia>
+                            <precio>160.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Espejo de Pared</nombre>
+                            <referencia>EP045</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </trimestre_4>
+    </año_2021>
+    <año_2022>
+        <trimestre_1>
+            <!-- Clientes recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Calle Principal</calle>
+                        <ciudad>Cityville</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaX</provincia>
+                    </direccion>
+                    <correo_electronico>juan@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>045</numero_pedido>
+                    <fecha_compra>2021-01-10</fecha_compra>
+                    <fecha_entrega>2021-01-15</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatillas Deportivas</nombre>
+                            <referencia>ZD001</referencia>
+                            <precio>60.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Ropa Deportiva</nombre>
+                            <referencia>RD002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Luis</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. Primavera</calle>
+                        <ciudad>Ciudad Alegre</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaZ</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-03-01</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>046</numero_pedido>
+                    <fecha_compra>2021-03-05</fecha_compra>
+                    <fecha_entrega>2021-03-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos Casuales</nombre>
+                            <referencia>ZC003</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Camisa a Rayas</nombre>
+                            <referencia>CR004</referencia>
+                            <precio>70.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Daniel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle de la Luna</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>ProvinciaA</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-04-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>047</numero_pedido>
+                    <fecha_compra>2021-04-15</fecha_compra>
+                    <fecha_entrega>2021-04-20</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Botas de Montaña</nombre>
+                            <referencia>BM004</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Chaqueta Impermeable</nombre>
+                            <referencia>CI005</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Miguel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. del Sol</calle>
+                        <ciudad>Ciudad Radiante</ciudad>
+                        <codigo_postal>89012</codigo_postal>
+                        <provincia>ProvinciaE</provincia>
+                    </direccion>
+                    <correo_electronico>miguel@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-11-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>048</numero_pedido>
+                    <fecha_compra>2021-11-20</fecha_compra>
+                    <fecha_entrega>2021-11-25</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartwatch Deportivo</nombre>
+                            <referencia>SD008</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Kit de Herramientas para Jardín</nombre>
+                            <referencia>KH009</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carolina</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>789654321</telefono>
+                    <direccion>
+                        <calle>Calzada de las Flores</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaF</provincia>
+                    </direccion>
+                    <correo_electronico>carolina@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>049</numero_pedido>
+                    <fecha_compra>2022-01-15</fecha_compra>
+                    <fecha_entrega>2022-01-20</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Lámpara de Pie Moderna</nombre>
+                            <referencia>LM009</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Juego de Té de Porcelana</nombre>
+                            <referencia>JT010</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Clientes no recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Laura</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Av. Flores</calle>
+                        <ciudad>Ciudad Bella</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaM</provincia>
+                    </direccion>
+                    <correo_electronico>laura@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-05-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>050</numero_pedido>
+                    <fecha_compra>2021-05-15</fecha_compra>
+                    <fecha_entrega>2021-05-20</fecha_entrega>
+                    <total_factura>95.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro de Cocina</nombre>
+                            <referencia>LC005</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Juego de Toallas</nombre>
+                            <referencia>JT006</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>876543210</telefono>
+                    <direccion>
+                        <calle>Calle Sombra</calle>
+                        <ciudad>Ciudad Oscura</ciudad>
+                        <codigo_postal>34567</codigo_postal>
+                        <provincia>ProvinciaN</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-06-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>051</numero_pedido>
+                    <fecha_compra>2021-06-25</fecha_compra>
+                    <fecha_entrega>2021-06-30</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Espejo Decorativo</nombre>
+                            <referencia>ED006</referencia>
+                            <precio>45.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Perfume Floral</nombre>
+                            <referencia>PF007</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Rivera</apellidos>
+                    <telefono>765432109</telefono>
+                    <direccion>
+                        <calle>Av. Serenidad</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>23456</codigo_postal>
+                        <provincia>ProvinciaO</provincia>
+                    </direccion>
+                    <correo_electronico>ana@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-02-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>052</numero_pedido>
+                    <fecha_compra>2022-02-15</fecha_compra>
+                    <fecha_entrega>2022-02-20</fecha_entrega>
+                    <total_factura>110.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Cafetera Automática</nombre>
+                            <referencia>CA011</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Set de Tazas de Café</nombre>
+                            <referencia>ST012</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Jorge</nombre>
+                    <apellidos>Castillo</apellidos>
+                    <telefono>654321098</telefono>
+                    <direccion>
+                        <calle>Av. del Bosque</calle>
+                        <ciudad>Ciudad Verde</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaP</provincia>
+                    </direccion>
+                    <correo_electronico>jorge@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-04-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>053</numero_pedido>
+                    <fecha_compra>2022-04-10</fecha_compra>
+                    <fecha_entrega>2022-04-15</fecha_entrega>
+                    <total_factura>65.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Lámpara de Escritorio</nombre>
+                            <referencia>LE012</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cuadro Decorativo</nombre>
+                            <referencia>CD013</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Lucía</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>543210987</telefono>
+                    <direccion>
+                        <calle>Calle Lunar</calle>
+                        <ciudad>Ciudad Nocturna</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaQ</provincia>
+                    </direccion>
+                    <correo_electronico>lucia@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-06-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>053</numero_pedido>
+                    <fecha_compra>2022-06-20</fecha_compra>
+                    <fecha_entrega>2022-06-25</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Reloj de Pared</nombre>
+                            <referencia>RP013</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cojines Decorativos</nombre>
+                            <referencia>CD014</referencia>
+                            <precio>40.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </trimestre_1>
+        <trimestre_2>
+            <!-- Clientes recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Av. Libertad</calle>
+                        <ciudad>Ciudad Nueva</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaX</provincia>
+                    </direccion>
+                    <correo_electronico>juan@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>053</numero_pedido>
+                    <fecha_compra>2021-01-10</fecha_compra>
+                    <fecha_entrega>2021-01-15</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Sneakers Modernos</nombre>
+                            <referencia>SM001</referencia>
+                            <precio>60.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Ropa Deportiva</nombre>
+                            <referencia>RD002</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Luis</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. Primavera</calle>
+                        <ciudad>Ciudad Alegre</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaZ</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-03-01</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>054</numero_pedido>
+                    <fecha_compra>2021-03-05</fecha_compra>
+                    <fecha_entrega>2021-03-10</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Zapatos Elegantes</nombre>
+                            <referencia>ZE003</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Camisa a Rayas</nombre>
+                            <referencia>CR004</referencia>
+                            <precio>70.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Daniel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle de la Luna</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>ProvinciaA</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-04-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>055</numero_pedido>
+                    <fecha_compra>2021-04-15</fecha_compra>
+                    <fecha_entrega>2021-04-20</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Botas de Montaña</nombre>
+                            <referencia>BM004</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Chaqueta Impermeable</nombre>
+                            <referencia>CI005</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Miguel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. del Sol</calle>
+                        <ciudad>Ciudad Radiante</ciudad>
+                        <codigo_postal>89012</codigo_postal>
+                        <provincia>ProvinciaE</provincia>
+                    </direccion>
+                    <correo_electronico>miguel@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-11-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>056</numero_pedido>
+                    <fecha_compra>2021-11-20</fecha_compra>
+                    <fecha_entrega>2021-11-25</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smartwatch Deportivo</nombre>
+                            <referencia>SD008</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Kit de Herramientas para Jardín</nombre>
+                            <referencia>KH009</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carolina</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>789654321</telefono>
+                    <direccion>
+                        <calle>Calzada de las Flores</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaF</provincia>
+                    </direccion>
+                    <correo_electronico>carolina@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>057</numero_pedido>
+                    <fecha_compra>2022-01-15</fecha_compra>
+                    <fecha_entrega>2022-01-20</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Lámpara de Pie Moderna</nombre>
+                            <referencia>LM009</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Juego de Té de Porcelana</nombre>
+                            <referencia>JT010</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Clientes no recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Laura</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Av. Flores</calle>
+                        <ciudad>Ciudad Bella</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaM</provincia>
+                    </direccion>
+                    <correo_electronico>laura@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-05-12</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>058</numero_pedido>
+                    <fecha_compra>2021-05-15</fecha_compra>
+                    <fecha_entrega>2021-05-20</fecha_entrega>
+                    <total_factura>95.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Libro de Cocina</nombre>
+                            <referencia>LC005</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Juego de Toallas</nombre>
+                            <referencia>JT006</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carlos</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>876543210</telefono>
+                    <direccion>
+                        <calle>Calle Sombra</calle>
+                        <ciudad>Ciudad Oscura</ciudad>
+                        <codigo_postal>34567</codigo_postal>
+                        <provincia>ProvinciaN</provincia>
+                    </direccion>
+                    <correo_electronico>carlos@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-06-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>059</numero_pedido>
+                    <fecha_compra>2021-06-25</fecha_compra>
+                    <fecha_entrega>2021-06-30</fecha_entrega>
+                    <total_factura>75.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Espejo Decorativo</nombre>
+                            <referencia>ED006</referencia>
+                            <precio>45.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Perfume Floral</nombre>
+                            <referencia>PF007</referencia>
+                            <precio>30.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Ana</nombre>
+                    <apellidos>Rivera</apellidos>
+                    <telefono>765432109</telefono>
+                    <direccion>
+                        <calle>Av. Serenidad</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>23456</codigo_postal>
+                        <provincia>ProvinciaO</provincia>
+                    </direccion>
+                    <correo_electronico>ana@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-02-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>060</numero_pedido>
+                    <fecha_compra>2022-02-15</fecha_compra>
+                    <fecha_entrega>2022-02-20</fecha_entrega>
+                    <total_factura>110.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Cafetera Automática</nombre>
+                            <referencia>CA011</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Set de Tazas de Café</nombre>
+                            <referencia>ST012</referencia>
+                            <precio>30.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Jorge</nombre>
+                    <apellidos>Castillo</apellidos>
+                    <telefono>654321098</telefono>
+                    <direccion>
+                        <calle>Av. del Bosque</calle>
+                        <ciudad>Ciudad Verde</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaP</provincia>
+                    </direccion>
+                    <correo_electronico>jorge@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-04-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>061</numero_pedido>
+                    <fecha_compra>2022-04-10</fecha_compra>
+                    <fecha_entrega>2022-04-15</fecha_entrega>
+                    <total_factura>65.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Lámpara de Escritorio</nombre>
+                            <referencia>LE012</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cuadro Decorativo</nombre>
+                            <referencia>CD013</referencia>
+                            <precio>25.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Lucía</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>543210987</telefono>
+                    <direccion>
+                        <calle>Calle Lunar</calle>
+                        <ciudad>Ciudad Nocturna</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaQ</provincia>
+                    </direccion>
+                    <correo_electronico>lucia@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-06-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>062</numero_pedido>
+                    <fecha_compra>2022-06-20</fecha_compra>
+                    <fecha_entrega>2022-06-25</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Reloj de Pared</nombre>
+                            <referencia>RP013</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cojines Decorativos</nombre>
+                            <referencia>CD014</referencia>
+                            <precio>40.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </trimestre_2>
+        <trimestre_3>
+            <!-- Clientes recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Av. Libertad</calle>
+                        <ciudad>Ciudad Nueva</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaX</provincia>
+                    </direccion>
+                    <correo_electronico>juan@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-01-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>063</numero_pedido>
+                    <fecha_compra>2023-09-10</fecha_compra>
+                    <fecha_entrega>2023-09-15</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Auriculares Inalámbricos</nombre>
+                            <referencia>AI021</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Mochila para Portátil</nombre>
+                            <referencia>MP022</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Luis</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. Primavera</calle>
+                        <ciudad>Ciudad Alegre</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaZ</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-03-01</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>064</numero_pedido>
+                    <fecha_compra>2023-09-05</fecha_compra>
+                    <fecha_entrega>2023-09-10</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Smart TV 4K</nombre>
+                            <referencia>ST023</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Barra de Sonido</nombre>
+                            <referencia>BS024</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Daniel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle de la Luna</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>ProvinciaA</provincia>
+                    </direccion>
+                    <correo_electronico>luis@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-04-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>065</numero_pedido>
+                    <fecha_compra>2023-09-15</fecha_compra>
+                    <fecha_entrega>2023-09-20</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Tablet Android</nombre>
+                            <referencia>TA024</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Funda para Tablet</nombre>
+                            <referencia>FT025</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Miguel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. del Sol</calle>
+                        <ciudad>Ciudad Radiante</ciudad>
+                        <codigo_postal>89012</codigo_postal>
+                        <provincia>ProvinciaE</provincia>
+                    </direccion>
+                    <correo_electronico>miguel@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2021-11-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>066</numero_pedido>
+                    <fecha_compra>2023-09-20</fecha_compra>
+                    <fecha_entrega>2023-09-25</fecha_entrega>
+                    <total_factura>240.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Auriculares Bluetooth</nombre>
+                            <referencia>AB028</referencia>
+                            <precio>120.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cargador Inalámbrico</nombre>
+                            <referencia>CI029</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carolina</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>789654321</telefono>
+                    <direccion>
+                        <calle>Calzada de las Flores</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaF</provincia>
+                    </direccion>
+                    <correo_electronico>carolina@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-01-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>067</numero_pedido>
+                    <fecha_compra>2023-09-25</fecha_compra>
+                    <fecha_entrega>2023-09-30</fecha_entrega>
+                    <total_factura>260.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Aspiradora Robot</nombre>
+                            <referencia>AR029</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Cafetera Programable</nombre>
+                            <referencia>CP030</referencia>
+                            <precio>140.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Clientes no recurrentes -->
+            <pedido>    
+                <cliente>
+                    <nombre>Emily</nombre>
+                    <apellidos>Hernández</apellidos>
+                    <telefono>789012345</telefono>
+                    <direccion>
+                        <calle>Av. Aurora</calle>
+                        <ciudad>Ciudad Brillante</ciudad>
+                        <codigo_postal>12345</codigo_postal>
+                        <provincia>ProvinciaB</provincia>
+                    </direccion>
+                    <correo_electronico>emily@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-08-03</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>068</numero_pedido>
+                    <fecha_compra>2022-08-08</fecha_compra>
+                    <fecha_entrega>2022-08-13</fecha_entrega>
+                    <total_factura>150.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Alfombra Shaggy</nombre>
+                            <referencia>AS020</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara de Techo</nombre>
+                            <referencia>LT021</referencia>
+                            <precio>70.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Michael</nombre>
+                    <apellidos>García</apellidos>
+                    <telefono>567890123</telefono>
+                    <direccion>
+                        <calle>Av. Estrellas</calle>
+                        <ciudad>Ciudad Celestial</ciudad>
+                        <codigo_postal>23456</codigo_postal>
+                        <provincia>ProvinciaC</provincia>
+                    </direccion>
+                    <correo_electronico>michael@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-09-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>069</numero_pedido>
+                    <fecha_compra>2022-09-30</fecha_compra>
+                    <fecha_entrega>2022-10-05</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Silla Ergonómica</nombre>
+                            <referencia>SE021</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Escritorio de Oficina</nombre>
+                            <referencia>EO022</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Sofía</nombre>
+                    <apellidos>Ramírez</apellidos>
+                    <telefono>345678901</telefono>
+                    <direccion>
+                        <calle>Av. Serenidad</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>34567</codigo_postal>
+                        <provincia>ProvinciaO</provincia>
+                    </direccion>
+                    <correo_electronico>sofia@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-02-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>070</numero_pedido>
+                    <fecha_compra>2023-02-25</fecha_compra>
+                    <fecha_entrega>2023-03-02</fecha_entrega>
+                    <total_factura>120.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Set de Cuchillos de Cocina</nombre>
+                            <referencia>CC022</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Ollas de Acero Inoxidable</nombre>
+                            <referencia>OA023</referencia>
+                            <precio>40.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Raul</nombre>
+                    <apellidos>Molina</apellidos>
+                    <telefono>901234567</telefono>
+                    <direccion>
+                        <calle>Av. del Bosque</calle>
+                        <ciudad>Ciudad Verde</ciudad>
+                        <codigo_postal>45678</codigo_postal>
+                        <provincia>ProvinciaP</provincia>
+                    </direccion>
+                    <correo_electronico>raul@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-06-05</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>071</numero_pedido>
+                    <fecha_compra>2023-06-10</fecha_compra>
+                    <fecha_entrega>2023-06-15</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Mesa de Comedor</nombre>
+                            <referencia>MC023</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Sillas de Comedor (Juego de 4)</nombre>
+                            <referencia>SC024</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Marta</nombre>
+                    <apellidos>Díaz</apellidos>
+                    <telefono>678901234</telefono>
+                    <direccion>
+                        <calle>Calle Lunar</calle>
+                        <ciudad>Ciudad Nocturna</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaQ</provincia>
+                    </direccion>
+                    <correo_electronico>marta@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-09-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>072</numero_pedido>
+                    <fecha_compra>2023-09-20</fecha_compra>
+                    <fecha_entrega>2023-09-25</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Set de Sábanas de Satén</nombre>
+                            <referencia>SS024</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Espejo de Pared</nombre>
+                            <referencia>EP025</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </trimestre_3>
+        
+        <trimestre_4>
+            <!-- Clientes recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Juan</nombre>
+                    <apellidos>Pérez</apellidos>
+                    <telefono>123456789</telefono>
+                    <direccion>
+                        <calle>Av. Independencia</calle>
+                        <ciudad>Ciudad Renovada</ciudad>
+                        <codigo_postal>98765</codigo_postal>
+                        <provincia>ProvinciaZ</provincia>
+                    </direccion>
+                    <correo_electronico>juan.perez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-05-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>073</numero_pedido>
+                    <fecha_compra>2023-02-15</fecha_compra>
+                    <fecha_entrega>2023-02-20</fecha_entrega>
+                    <total_factura>200.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Teclado Inalámbrico</nombre>
+                            <referencia>TI030</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Ratón Ergonómico</nombre>
+                            <referencia>RE031</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Luis</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. del Bosque</calle>
+                        <ciudad>Ciudad Encantada</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>ProvinciaY</provincia>
+                    </direccion>
+                    <correo_electronico>luis.fernandez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-07-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>074</numero_pedido>
+                    <fecha_compra>2023-04-10</fecha_compra>
+                    <fecha_entrega>2023-04-15</fecha_entrega>
+                    <total_factura>180.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Auriculares In-Ear</nombre>
+                            <referencia>AE031</referencia>
+                            <precio>80.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Mesa de Centro</nombre>
+                            <referencia>MC032</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Daniel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Calle de la Torre</calle>
+                        <ciudad>Ciudad Serena</ciudad>
+                        <codigo_postal>23456</codigo_postal>
+                        <provincia>ProvinciaB</provincia>
+                    </direccion>
+                    <correo_electronico>daniel.fernandez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-10-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>075</numero_pedido>
+                    <fecha_compra>2023-05-20</fecha_compra>
+                    <fecha_entrega>2023-05-25</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Silla Gamer</nombre>
+                            <referencia>SG032</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Teclado Mecánico</nombre>
+                            <referencia>TM033</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Miguel</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>654321987</telefono>
+                    <direccion>
+                        <calle>Av. de la Luna</calle>
+                        <ciudad>Ciudad Nocturna</ciudad>
+                        <codigo_postal>34567</codigo_postal>
+                        <provincia>ProvinciaO</provincia>
+                    </direccion>
+                    <correo_electronico>miguel.fernandez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-01-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>076</numero_pedido>
+                    <fecha_compra>2023-06-05</fecha_compra>
+                    <fecha_entrega>2023-06-10</fecha_entrega>
+                    <total_factura>240.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Impresora Multifunción</nombre>
+                            <referencia>IM033</referencia>
+                            <precio>120.00</precio>
+                            <unidades>2</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Papel Fotográfico</nombre>
+                            <referencia>PF034</referencia>
+                            <precio>60.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Carolina</nombre>
+                    <apellidos>Rodríguez</apellidos>
+                    <telefono>789654321</telefono>
+                    <direccion>
+                        <calle>Av. de las Estrellas</calle>
+                        <ciudad>Ciudad Brillante</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaC</provincia>
+                    </direccion>
+                    <correo_electronico>carolina.rodriguez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-08-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>077</numero_pedido>
+                    <fecha_compra>2023-11-10</fecha_compra>
+                    <fecha_entrega>2023-11-15</fecha_entrega>
+                    <total_factura>260.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Auriculares con Cancelación de Ruido</nombre>
+                            <referencia>AC034</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara LED Inteligente</nombre>
+                            <referencia>LI035</referencia>
+                            <precio>140.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <!-- Clientes no recurrentes -->
+            <pedido>
+                <cliente>
+                    <nombre>Emma</nombre>
+                    <apellidos>López</apellidos>
+                    <telefono>987654321</telefono>
+                    <direccion>
+                        <calle>Av. Primavera</calle>
+                        <ciudad>Ciudad Alegre</ciudad>
+                        <codigo_postal>54321</codigo_postal>
+                        <provincia>ProvinciaZ</provincia>
+                    </direccion>
+                    <correo_electronico>emma.lopez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-11-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>078</numero_pedido>
+                    <fecha_compra>2023-05-10</fecha_compra>
+                    <fecha_entrega>2023-05-15</fecha_entrega>
+                    <total_factura>190.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Lámpara de Pie</nombre>
+                            <referencia>LP040</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Espejo Decorativo</nombre>
+                            <referencia>ED041</referencia>
+                            <precio>90.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Olivia</nombre>
+                    <apellidos>Ramírez</apellidos>
+                    <telefono>876543210</telefono>
+                    <direccion>
+                        <calle>Av. Serenidad</calle>
+                        <ciudad>Ciudad Tranquila</ciudad>
+                        <codigo_postal>23456</codigo_postal>
+                        <provincia>ProvinciaO</provincia>
+                    </direccion>
+                    <correo_electronico>olivia.ramirez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2022-12-25</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>079</numero_pedido>
+                    <fecha_compra>2023-06-20</fecha_compra>
+                    <fecha_entrega>2023-06-25</fecha_entrega>
+                    <total_factura>220.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Mesa de Centro</nombre>
+                            <referencia>MC041</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Lámpara de Mesa</nombre>
+                            <referencia>LM042</referencia>
+                            <precio>100.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Liam</nombre>
+                    <apellidos>Martínez</apellidos>
+                    <telefono>765432109</telefono>
+                    <direccion>
+                        <calle>Av. del Bosque</calle>
+                        <ciudad>Ciudad Verde</ciudad>
+                        <codigo_postal>34567</codigo_postal>
+                        <provincia>ProvinciaP</provincia>
+                    </direccion>
+                    <correo_electronico>liam.martinez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-01-20</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>080</numero_pedido>
+                    <fecha_compra>2023-07-05</fecha_compra>
+                    <fecha_entrega>2023-07-10</fecha_entrega>
+                    <total_factura>260.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Sofá de Tres Plazas</nombre>
+                            <referencia>SP042</referencia>
+                            <precio>150.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Mesa de Comedor</nombre>
+                            <referencia>MC043</referencia>
+                            <precio>110.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Ava</nombre>
+                    <apellidos>Gómez</apellidos>
+                    <telefono>654321098</telefono>
+                    <direccion>
+                        <calle>Av. Lunar</calle>
+                        <ciudad>Ciudad Nocturna</ciudad>
+                        <codigo_postal>56789</codigo_postal>
+                        <provincia>ProvinciaQ</provincia>
+                    </direccion>
+                    <correo_electronico>ava.gomez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-02-15</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>081</numero_pedido>
+                    <fecha_compra>2023-08-10</fecha_compra>
+                    <fecha_entrega>2023-08-15</fecha_entrega>
+                    <total_factura>240.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Silla de Comedor</nombre>
+                            <referencia>SC043</referencia>
+                            <precio>130.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Mesa de Noche</nombre>
+                            <referencia>MN044</referencia>
+                            <precio>110.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+            <pedido>
+                <cliente>
+                    <nombre>Noah</nombre>
+                    <apellidos>Fernández</apellidos>
+                    <telefono>890123456</telefono>
+                    <direccion>
+                        <calle>Av. del Sol</calle>
+                        <ciudad>Ciudad Brillante</ciudad>
+                        <codigo_postal>67890</codigo_postal>
+                        <provincia>ProvinciaB</provincia>
+                    </direccion>
+                    <correo_electronico>noah.fernandez@example.com</correo_electronico>
+                </cliente>
+                <fecha_inclusion>2023-03-10</fecha_inclusion>
+                <detalle_pedido>
+                    <numero_pedido>082</numero_pedido>
+                    <fecha_compra>2023-09-25</fecha_compra>
+                    <fecha_entrega>2023-09-30</fecha_entrega>
+                    <total_factura>280.00</total_factura>
+                    <productos>
+                        <producto>
+                            <nombre>Mesa de Café</nombre>
+                            <referencia>MC044</referencia>
+                            <precio>160.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                        <producto>
+                            <nombre>Espejo de Pared</nombre>
+                            <referencia>EP045</referencia>
+                            <precio>120.00</precio>
+                            <unidades>1</unidades>
+                        </producto>
+                    </productos>
+                </detalle_pedido>
+            </pedido>
+        </trimestre_4>
+    </año_2022>
+</web_pedidos>
